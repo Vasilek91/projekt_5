@@ -1,4 +1,4 @@
-# P5_PowerBI
+# Projekt_5 PowerBI
 
 Pátý projekt PowerBI
 
