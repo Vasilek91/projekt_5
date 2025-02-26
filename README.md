@@ -6,6 +6,6 @@ Téma projektu: **Výrobní a provozní údaje firmy Röchling Industrial Nové 
 
 PowerBI zobrazuje
 - KPI
-- výrobní údaje
+- výrobní data
 - personální údaje
 - prodejní data
