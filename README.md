@@ -2,7 +2,7 @@
 
 Pátý projekt PowerBI
 
-Téma projektu: **Výrobní a provozní údaje firmy Röchling Industrial Nové Město NM**.
+Téma projektu: **Management dashboard firmy Röchling Industrial Nové Město NM**.
 
 PowerBI zobrazuje
 - KPI
